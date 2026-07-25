@@ -7,10 +7,10 @@
 // 詳細步驟請見 README.md「自行架設教學」
 // ============================================================
 export const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.firebasestorage.app",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyBWbqJaj-VEdYWudMulB938bmT4YFCNed0",
+    authDomain: "nini-travel.firebaseapp.com",
+    projectId: "nini-travel",
+    storageBucket: "nini-travel.firebasestorage.app",
+    messagingSenderId: "1054057333737",
+    appId: "1:1054057333737:web:5616c97c9e541cf52c4178"
 };
